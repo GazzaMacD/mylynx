@@ -12,6 +12,9 @@ db.sqlite3-journal
 # Environments
 .venv
 
+# Django settings 
+dev_gareth.py
+
 # Ruff stuff:
 .ruff_cache/
 
